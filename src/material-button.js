@@ -29,7 +29,6 @@ export class MaterialButton extends HTMLElement {
                 button {
                     border: none;
                     border-radius: var(--border-radius);
-                    min-height: 36px;
                     padding: var(--button-padding);
                     font-size: var(--font-size);
                     color: var(--font-color);
